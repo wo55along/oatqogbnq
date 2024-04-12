@@ -1,0 +1,15 @@
+{
+  "name": "oatqogbnq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ['dateFormat','formarTime','aaaaa'],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/wo55along/oatqogbnq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Provides the function of formatting time"
+}
